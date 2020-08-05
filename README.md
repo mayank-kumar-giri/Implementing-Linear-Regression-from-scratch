@@ -1,2 +1,2 @@
-# Standard-and-Poors-500-Time-Series-Prediction
+# Implementing Linear Regression from scratch
 Closing price prediction using Regression of Standard &amp; Poor's 500, an American Stock Market.
